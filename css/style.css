@@ -37,6 +37,7 @@
 
 }
 
+/* Body */
 
 body {
   margin: 0;
@@ -45,7 +46,36 @@ body {
   color: #001011;
 }
 
-/* Global CSS for entire website */
+
+/* Footer */
+
+.footer-link{
+
+  font-size: 1.23rem;
+  font-weight: bold;
+  font-family: 'Lato';
+  padding-bottom: 20px;
+  color: #4f3961;
+
+}
+.bottom-container{
+
+  background-color: #9fdfcd;
+
+}
+
+/* Global CSS for entire elements */
+
+p {
+
+  font-family: 'Lato';
+  color: #001011;
+}
+
+.text {
+  font-size: 1rem;
+  font-family: 'Lato';
+}
 
 html {
   scroll-behavior: smooth;
