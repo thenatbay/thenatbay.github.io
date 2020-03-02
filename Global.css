@@ -7,7 +7,7 @@
 html,
 body {
     height: 100%;
-    width: 100%;
+    width: 100%; /* test */
 }
 
 .navbar {
@@ -109,4 +109,3 @@ section {
     margin-left: 10px;
     margin-top: 10px;
 }
-
