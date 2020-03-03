@@ -56,6 +56,7 @@ body {
   text-align: center;
   font-family: 'Shadows Into Light', cursive;
   color: #001011;
+  background-color: #1f2833;
 }
 
 
@@ -73,7 +74,7 @@ body {
 .bottom-container{
 
   background-color: #9fdfcd;
-  
+
 }
 
 /* Global CSS for entire elements */
