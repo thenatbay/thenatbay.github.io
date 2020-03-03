@@ -11,8 +11,22 @@
     text-transform: uppercase;
     font-weight: 700;
     color: #f5f5f5;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     text-align: center;
+}
+
+.navbar padding {
+
+  color: #1f2833;
+  background-color: #1f2833;
+
+}
+
+.navbar padding:hover{
+
+  background: #f5f5f5;
+  color: #1f2833;
+
 }
 
 .navbar a {
