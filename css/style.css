@@ -11,23 +11,17 @@
     text-transform: uppercase;
     font-weight: 700;
     color: #f5f5f5;
-    padding-bottom: 20px;
     text-align: center;
+    height: 110px;
 }
 
-.navbar padding {
 
-  color: #1f2833;
-  background-color: #1f2833;
+.website-button{
 
-}
-
-.navbar padding:hover{
-
-  background: #f5f5f5;
-  color: #1f2833;
+  height: 110px;
 
 }
+
 
 .navbar a {
     float: right;
