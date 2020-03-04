@@ -73,7 +73,7 @@ body .login__group__input {
   line-height: 50px;
   padding: 12px 18px 0;
 }
-body .login__group__input:focus + .login__group__label {
+body .login__group__input:focus + .login__group__label + .output_label {
   top: 15px;
   font-size: 0.7rem;
 }
@@ -111,6 +111,10 @@ body .login__secondary-cta__text--need-help:hover {
 
 ::-webkit-input-placeholder {
   font-size: 0.7rem;
+}
+
+.output_label, .output_login{
+  color: white;
 }
 
 ::-moz-placeholder {
