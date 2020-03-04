@@ -2,7 +2,7 @@
 var objPeople = [
 	{ // Object @ 0 index
 		username: "admin",
-		password: "123"
+		password: "nateflix"
 	},
 	{ // Object @ 1 index
 		username: "matt",
