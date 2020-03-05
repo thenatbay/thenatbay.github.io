@@ -23,7 +23,7 @@ function getInfo() {
       document.getElementById("output_label").style.display = "block";
       document.getElementById("output_label").style.color = "#77dd77";
       document.getElementById('output_label').innerHTML = "Successfully logged in. Redirecting.";
-      setTimeout(function(){window.location.replace("./main.html");}, 1250);
+      //setTimeout(function(){window.location.replace("./main.html");}, 1250); //// FIXME: 
       //
 			// stop the function if this is found to be true
 			return
