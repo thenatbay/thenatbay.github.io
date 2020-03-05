@@ -13,6 +13,8 @@ var objPeople = [
 		password: "forever"
 	}
 
+console.log('login.js loaded')
+
 ]
 function onSignIn(googleUser) {
   var profile = googleUser.getBasicProfile();
