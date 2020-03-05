@@ -2,6 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <meta name="google-signin-client_id" content="649056119275-716c4rcppaqtb8hsehqqre30i0ukjsaj.apps.googleusercontent.com">
     <title>NateFlix - Login</title>
     <link rel="stylesheet" type="text/css" href="./css/login-css.css">
   </head>
@@ -10,6 +11,8 @@
     <a class="logo" href="./index.html"><img src="./images/nateflix-logo.png"/></a>
     <div class="login">
       <h1 class="login__title">Sign In</h1>
+      <div class="g-signin2" data-onsuccess="onSignIn"></div>
+      <script src="https://apis.google.com/js/platform.js" async defer></script>
       <div class="login__group">
         <input id="username" class="login__group__input" type="text" required="true" placeholder=" "/>
         <label class="login__group__label">Email or phone number</label>
