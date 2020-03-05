@@ -12,7 +12,7 @@ function onSignIn(googleUser) {
   document.getElementById("output_label").style.display = "block";
   document.getElementById("output_label").style.color = "#77dd77";
   document.getElementById('output_label').innerHTML = "Successfully logged in. Redirecting.";
-  setTimeout(function(){window.location.replace("./main.html");}, 2050);
+  //setTimeout(function(){window.location.replace("./main.html");}, 2050);
 
   window.location.replace("./main.html");
 }

@@ -1,16 +1,13 @@
 // Loop through Array of Objects
 var objPeople = [
 	{ // Object @ 0 index
-		username: "admin",
-		password: "nateflix"
+		id: "admin", // charlie
 	},
 	{ // Object @ 1 index
-		username: "matt",
-		password: "academy"
+		id: "", //sam
 	},
 	{ // Object @ 2 index
-		username: "chris",
-		password: "forever"
+		id: ""
 	}
 
 ]
