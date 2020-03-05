@@ -13,7 +13,7 @@ var objPeople = [
 		password: "forever"
 	}
 
-console.log('login.js loaded')
+console.log('login.js loaded');
 
 ]
 function onSignIn(googleUser) {
