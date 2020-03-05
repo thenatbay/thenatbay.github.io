@@ -117,11 +117,6 @@ body .login__secondary-cta__text--need-help:hover {
   text-decoration: underline;
 }
 
-.g-signin2 {
-
-  padding-bottom: 20px;
-
-}
 
 ::-webkit-input-placeholder {
   font-size: 0.7rem;
