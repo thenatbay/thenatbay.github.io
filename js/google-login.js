@@ -14,5 +14,5 @@ function onSignIn(googleUser) {
   document.getElementById('output_label').innerHTML = "Successfully logged in. Redirecting.";
   //setTimeout(function(){window.location.replace("./main.html");}, 2050);
 
-  window.location.replace("./main.html");
+  //window.location.replace("./main.html");
 }
