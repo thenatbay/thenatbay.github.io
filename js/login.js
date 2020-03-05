@@ -50,6 +50,6 @@ function getInfo() {
   document.getElementById("output_label").style.display = "block";
   document.getElementById("output_label").style.color = "#ff6961";
   document.getElementById('output_label').innerHTML = "You are not authorised to access Nateflix.";
-	console.log("not-authorised")
+	console.log("not authorised")
 }
 document.getElementById("output_label").style.display = "none";
