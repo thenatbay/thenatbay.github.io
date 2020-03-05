@@ -38,7 +38,7 @@ function getInfo() {
 
 	for(var i = 0; i < objPeople.length; i++) {
 		// check is user input matches username and password of a current index of the objPeople array
-		if(userID == objPeople[i].userID) {
+		if(userID == objPeople[i].id) {
 			console.log(username + " is logged in!!!");
       document.getElementById("output_label").style.display = "block";
       document.getElementById("output_label").style.color = "#77dd77";
