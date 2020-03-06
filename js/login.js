@@ -4,7 +4,7 @@ var objPeople = [
 		id: "100032730001215739040", // charliekmcmahon
 	},
 	{ // Object @ 1 index
-		id: "114252005506563479771", //011112
+		id: "114252005506563479771", //charlie m
 	},
 	{ // Object @ 2 index
 		id: "112909034692413764594" //sam p
